@@ -1,8 +1,9 @@
-# Sahayak
-Be your own SAHAYAK
+# SELP
+Self + Help = SELP 
 
-* 'SAHAYAK(1).pptx' is the presentation file of our project.
+
+* 'SELP.pptx' is the presentation file of our project.
 
 * DEPRESSION26 is the python file which contains ML model that we have created to predict mental health condition.
 
-* Sahayak_1, SAHAYAK_2, SAHAYAK_3 are code for setting up the mobile application.
+* SELP_1, SELP_2, Selp_3 are code for setting up the mobile application.
